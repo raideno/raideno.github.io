@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Kichou Nadir Personal Website
+longtitle:        Kichou Nadir Personal Website
+author:           Kichou Nadir
+email:            nad.kichou.etu@univ-lille.fr
 description: >
-  Build Jekyll site with the GitBook style.
+  This is Kichou Nadir's personal website.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://raideno.github.io'
+baseurl:          '/raideno.github.io'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -44,6 +44,7 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 # Disqus comments
+# Uncomment and set your Disqus shortname if you want to enable comments
 # disqushandler:            sighingnow
 
 exclude:

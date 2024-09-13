@@ -1,8 +1,8 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
-category: Jekyll
+author: Kichou Nadir
+date: 2024-09-13
+category: Miscellaneous
 layout: post
 ---
 

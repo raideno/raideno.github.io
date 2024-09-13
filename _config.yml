@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
+title:            Nadir Kichou Blog
+longtitle:        Nadir Kichou Blog
 author:           HE Tao
-email:            sighingnow@gmail.com
+email:            nadir.kichou.etu@univ-lille.fr
 description: >
-  Build Jekyll site with the GitBook style.
+  Nadir Kichou Blog, for the computer science refresher.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://raideno.github.io'
+baseurl:          '/'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself

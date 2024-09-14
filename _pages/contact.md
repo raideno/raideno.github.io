@@ -10,3 +10,4 @@ This is where you'll find all the necessary information to get in touch with me 
 - My Personal Website : [https://raideno.xyz](https://raideno.xyz)
 - My Personal Email : [nadirkichou@hotmail.fr](mailto:nadirkichou@hotmail.fr)
 - My Academic Email : [nadir.kichou.etu@univ-lille.fr](mailto:nadir.kichou.etu@univ-lille.fr)
+- My Business Card : [Pdf file](https://github.com/raideno/M1-DS-Refresher-in-Computer-Science---Part-1/releases/latest/download/card.pdf)
